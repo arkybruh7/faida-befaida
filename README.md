@@ -9,3 +9,8 @@
  4. Run it using python
     
 [Download](https://github.com/arkybruh7/faida-befaida/archive/refs/heads/main.zip)
+
+## File structure
+ 1. dev.py contains variables you can change
+ 2. func.py contains the necessary custom functions
+ 3. faida-befaida.py is the main execuetable file that youu gotta run. 
